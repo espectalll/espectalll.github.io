@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/espectalll
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://espectalll.hashbase.io
+  * I am espectalll (https://keybase.io/espectalll) on keybase.
+  * I have a public key with fingerprint 1196 FC8F 0266 CCB5 E5DD  CF1C 01B6 88EA 1903 A4FE
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120a5d71eae8fd281c01fbdcef08dab78ee578dfef9c96b70f02519fe5cb83f144a0a",
+      "fingerprint": "1196fc8f0266ccb5e5ddcf1c01b688ea1903a4fe",
+      "host": "keybase.io",
+      "key_id": "01b688ea1903a4fe",
+      "kid": "0101ea95309fba12f7a796dc702d90bd962d4aa338251ad0d4f05304834c685103180a",
+      "uid": "15247ad29818b7429a13c786ffb2bd19",
+      "username": "espectalll"
+    },
+    "merkle_root": {
+      "ctime": 1519155145,
+      "hash_meta": "9ff522bdc65e5d1fd79627129e2f57395f8857f1395354785b47916b9254734c",
+      "seqno": 2129429
+    },
+    "revoke": {
+      "sig_ids": [
+        "da462173997d19e9e8988d1c90c4c90dc9969fcfdb2fa665fa591b105069e1730f"
+      ]
+    },
+    "service": {
+      "hostname": "espectalll.hashbase.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1519155164,
+  "expire_in": 157680000,
+  "prev": "addb5349ac971039320a4278065b1d92dd83fefc0a5e5450af73cbfcdbd14244",
+  "seqno": 40,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.76
+Comment: https://keybase.io/crypto
+
+yMP+AnicZVN9UBZFHAYNFBiUFBtAqpmTGGwYvL339m4XS0hnFDU1kUH84nXvdhcv
+Xt4X715QIooBIynE7A/MyU9GTPwYQsUsFJRxTHJKSc1KG79tAvuymsZIbI/RcSbv
+j7vdm+d5fs8+v98ejx4aEhkaenB1b/zQ7QOhp7qqSkIW1q24VC4ZAVompZdLhWzw
+w3yUOUFvoUWldEkGikwg1QEjDHGqIGDKgBvUZFxGlBg6YgzqiHLGsYk1Q5e5rECA
+OYOmgTwcqCqRiZQqcctfwOxi2/IHhSwAWOMmElhNM00DMkipyV1tQ0OIEYBlD1E5
+E8RlAcdlCHMGcViaFRD/xMb7wN5j+Ie+ZWEZQ4+MuUGAwnWiY42auqxQLBsUawpV
+CfF4kHBLqExVLguwijyqqSEIZA9Ag75LBuUAVFSdUAUjgAxdVTABHlNHGueGYlCA
+XaDDbD8pYgLNnGJmBonP55MqUqUiZhf6mNcOBIJuvGbQckFAhAQgBCoURyTOMm8R
+CxLBxZxDRWiamhsK4FTYVnSgYKZwqHsw5AhBnQOx8kBVR9BQdQw0AytiJ8wLJw5b
+7g9I6YogCafCgc1KA4XMLe5YBSI4R0pfJFGiagoQilgXB2CYIYwQBSaWTVW8qImx
+hrnJqaFwommQE4iBAWQoa5gJnsylJRVuMbvUMgfF3U49lkCae7hHnSu2A8GAGfAJ
+zLJgsNhJdxMKlhW7pBXM8D6Q8xqWn4qJEYxSZjtWwC8SE8j/haepqRJbWWzZzGu5
+CKhrSBaPW4eVCklCqQE9KiYm1kVPsUdMs6roSNagAShWKBUzyrgpZpxBFcqE6x7T
+4CYVTVUVVX2UpipEg6RAaIoM/SRYYjOpouvY4idCQiNDwsOGuFcpJDIi5uEF668Z
+eX9q4613a883XPvmQrs9eXd8Vu6JuKL9tWeRlX1/xsRNKc6cZ7dEV+Y2ffHBa3Gh
+yzN/WRS19MbXNbVLK2MzLva2RbAPE1atckblVx5de2JXx6aq1gv9OHHzltLVu04e
+yWybHX7gn5SWrNuxV9H4mz0xL8d8n18SNnDS17R2e/KMe2/um75jxKnRHx388nTC
+gnEvXvyspvHo3QtT1lWcmb5+aujr54813xh2q6PvjZ6BvVtbuyaF52T/WdXxw1NJ
+df6kvI3559af/71lVPmZ70yN9B7KinovIm1J3txzd9LTWqT4t6N81ceXL+zI6Oz8
+tnzWicbV5qxDv8a803AzedRvrfV5h/I2b2uufPJ+Q//kRa+U306ZvyE71rc4uuze
+nSv7ptj5cZ8/fYqP/aR90pjIuD/W2C91ThxT4N04rOFadlKi0zfUtyLr6p6P5/f+
+XZzLLkd8OnzOyITY2t27JHR4fU6aNq9j3rqx1rit49uupM4crSvdR86czZ3W/PNb
+nVt4F8gc0xb3asYVo/GZrtIDiXd70cT6CU3dyT1X96alXFb7LLjq39nS4WkbomJW
++qqrMweyd7xgd8/iE8YP33p9T5hTp7Uvbuu7dP1HPWx34ogF7flJ9fE/PadkJe88
+Grcf3mktzJlWVtX6V/jz/d6mTV/dvEUz1ka37Nu8ZtuQ6pyZEacTj/WcTcg7uXdn
+c0133ZC5709umL//P2enAuo=
+=Kz7c
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/espectalll
+
+==================================================================
+
